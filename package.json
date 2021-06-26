@@ -1,7 +1,7 @@
 {
   "name": "k-r-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "reactcli",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,10 +14,24 @@
     "url": "git+https://github.com/CNZN/k-r-cli.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "kennyzhang",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/CNZN/k-r-cli/issues"
   },
-  "homepage": "https://github.com/CNZN/k-r-cli#readme"
+  "homepage": "https://github.com/CNZN/k-r-cli#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.17.1",
+    "inquirer": "^5.2.0",
+    "ncp": "^2.0.0",
+    "ora": "^2.1.0",
+    "pacote": "^8.1.6",
+    "shelljs": "^0.8.2",
+    "figlet": "^1.4.0"
+  },
+  "devDependencies": {
+    "husky": "^1.0.0-rc.13",
+    "fecs": "^1.6.1"
+  }
 }
