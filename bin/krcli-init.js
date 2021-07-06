@@ -13,7 +13,6 @@ async function chooseTarget() {
         return await inquirer.prompt(question);
     } catch (e) {
         // b捕捉异常
-        console.log(red(e));
         process.exit(1);
     }
 }
