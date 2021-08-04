@@ -1,7 +1,7 @@
 # k-r-cli
 
 ####
-start：
+start（启动）：
 
 krcli init 
 

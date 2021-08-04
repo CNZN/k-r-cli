@@ -1,6 +1,6 @@
 {
   "name": "zb-krcli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "reactcli",
   "main": "index.js",
   "scripts": {
