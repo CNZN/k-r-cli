@@ -1,7 +1,16 @@
 # k-r-cli
 
 ####
-并未在npm发布
+start（启动）：
+
+krcli init 
+
+
+
+
+
+7、18
+已在npm发布
 
 <!-- start -->
 npm install

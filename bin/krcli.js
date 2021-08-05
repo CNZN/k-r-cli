@@ -1,6 +1,6 @@
-
-var program = require('commander');
-var colors = require('./colors')
+#! /usr/bin/env node
+const program = require('commander');
+const colors = require('./colors')
 
 const { blue, green } = colors;
 
